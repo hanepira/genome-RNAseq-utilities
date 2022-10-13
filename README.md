@@ -1,1 +1,1 @@
-Notebooks for differential RNA-seq analysis
+Personal notebooks for differential RNA-seq analysis
